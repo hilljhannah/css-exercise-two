@@ -1,13 +1,23 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  font-size: 18px;
+  background-color: white;
+  color: 000;
+  pa
 }
 
 nav {
-  background-color: rgba(0,0,0,.5);
+  background-color: #333333;
   float: left;
   position: fixed;
   width: 100%;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+    color: cyan;
 }
 
 .logo {
@@ -32,6 +42,7 @@ nav {
   float: right;
 }
 
+
 ul {
   list-style-type: none;
   float: right;
@@ -43,10 +54,30 @@ li {
 }
 
 article {
-  padding-top: 100px;
+  padding-top: 120px;
 }
 
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+.story-text{
+  line-height: 120%;
+}
+
+p {
+  margin-bottom: 25px;
+}
+
+h1{
+  font-size: 2.5em;
+  padding-top: .75em;
+  padding-bottom: .3em;
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1em;
+  padding-bottom: .4em;
 }
