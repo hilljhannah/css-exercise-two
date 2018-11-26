@@ -1,2 +1,2 @@
 # css-exercise-two
-A short assignment done during my apprenticeship for Frontend Development utilizing css
+A short exercise completed during my apprenticeship for UX/UI Design & Frontend Development utilizing CSS
