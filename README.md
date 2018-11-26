@@ -1,2 +1,2 @@
 # css-exercise-two
-Assignment for Fundamentals
+A short assignment done during my apprenticeship for Frontend Development utilizing css
